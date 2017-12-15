@@ -21,3 +21,6 @@
 
 ### 待解决
 动态改变标题栏的标题并不能生效，原因未知，具体代码中有注释
+
+### clone from this address
+https://github.com/bestTao/caipu_weixin.git
